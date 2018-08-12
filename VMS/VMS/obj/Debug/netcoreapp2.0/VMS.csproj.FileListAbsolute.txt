@@ -1,0 +1,11 @@
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\bin\Debug\netcoreapp2.0\VMS.deps.json
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\bin\Debug\netcoreapp2.0\VMS.runtimeconfig.json
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\bin\Debug\netcoreapp2.0\VMS.runtimeconfig.dev.json
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\bin\Debug\netcoreapp2.0\VMS.dll
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\bin\Debug\netcoreapp2.0\VMS.pdb
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.csprojResolveAssemblyReference.cache
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.csproj.CoreCompileInputs.cache
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.AssemblyInfoInputs.cache
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.AssemblyInfo.cs
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.dll
+C:\Users\Erin - Darnell\source\repos\VMS\VMS\obj\Debug\netcoreapp2.0\VMS.pdb
